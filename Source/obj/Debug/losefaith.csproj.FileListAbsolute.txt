@@ -1,0 +1,10 @@
+D:\Mod Root\Source\1.4\Assemblies\losefaith.dll
+D:\Mod Root\Source\Losing The Faith\obj\Debug\losefaith.csproj.AssemblyReference.cache
+D:\Mod Root\Source\Losing The Faith\obj\Debug\losefaith.csproj.CoreCompileInputs.cache
+D:\Mod Root\Source\Losing The Faith\obj\Debug\losefaith.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\Losing The Faith\1.5\Assemblies\losefaith.dll
+D:\Games\Steam\steamapps\common\RimWorld\Games\Steam\steamapps\common\RimWorld\Mods\Losing The Faith\1.6\Assemblies\losefaith.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\Losing The Faith\Source\obj\Debug\losefaith.csproj.AssemblyReference.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\Losing The Faith\Source\obj\Debug\losefaith.csproj.CoreCompileInputs.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\Losing The Faith\Source\obj\Debug\losefaith.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\Losing The Faith\1.6\Assemblies\losefaith.dll

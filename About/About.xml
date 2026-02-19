@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+    <name>Losing The Faith</name>
+    <author>Espio Idsavant</author>
+    <packageId>espio.losefaith</packageId>
+    <description>This changes the the daily rate of a pawn's ideology certainty to be negative when they are in a bad mood.  Tired of your browbeaten prisoners still recovering thier faith everyday?  Not anymore!  Beware, its not limited to prisoners, everyone will lose certainty if upset!</description>
+    <supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+        <li>1.6</li>
+    </supportedVersions>
+    <loadAfter>
+    </loadAfter>
+
+</ModMetaData>
